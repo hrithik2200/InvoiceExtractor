@@ -1,0 +1,8 @@
+{
+ "invoice_number":"303004",
+ "vendor_name":"BeerHaus",
+ "invoice_date":"11-30-2018",
+ "net_amount":"78.00",
+ "tax_amount":"6.27", 
+ "total_amount":"82.27"
+}

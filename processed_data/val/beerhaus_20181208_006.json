@@ -1,0 +1,2793 @@
+{
+  "fields": {
+    "invoice_number": "303004",
+    "vendor_name": "BeerHaus",
+    "invoice_date": "11-30-2018",
+    "net_amount": "78.00",
+    "tax_amount": "6.27",
+    "total_amount": "82.27"
+  },
+  "nGrams": [
+    {
+      "words": [
+        {
+          "text": "11/30/2018",
+          "left": 74,
+          "top": 146,
+          "right": 203,
+          "bottom": 199
+        }
+      ],
+      "parses": {
+        "date": "11-30-2018"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 205,
+          "top": 192,
+          "right": 216,
+          "bottom": 195
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "19:48",
+          "left": 447,
+          "top": 152,
+          "right": 509,
+          "bottom": 175
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BeerHaus",
+          "left": 231,
+          "top": 217,
+          "right": 335,
+          "bottom": 241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Check:",
+          "left": 72,
+          "top": 249,
+          "right": 146,
+          "bottom": 273
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "303004",
+          "left": 178,
+          "top": 250,
+          "right": 257,
+          "bottom": 273
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Table:",
+          "left": 337,
+          "top": 250,
+          "right": 412,
+          "bottom": 274
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "B-1",
+          "left": 431,
+          "top": 251,
+          "right": 462,
+          "bottom": 274
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Table:",
+          "left": 337,
+          "top": 250,
+          "right": 412,
+          "bottom": 274
+        },
+        {
+          "text": "B-1",
+          "left": 431,
+          "top": 251,
+          "right": 462,
+          "bottom": 274
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 72,
+          "top": 282,
+          "right": 159,
+          "bottom": 305
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Allison",
+          "left": 177,
+          "top": 282,
+          "right": 269,
+          "bottom": 306
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "T.",
+          "left": 284,
+          "top": 282,
+          "right": 305,
+          "bottom": 305
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 72,
+          "top": 282,
+          "right": 159,
+          "bottom": 305
+        },
+        {
+          "text": "Allison",
+          "left": 177,
+          "top": 282,
+          "right": 269,
+          "bottom": 306
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Allison",
+          "left": 177,
+          "top": 282,
+          "right": 269,
+          "bottom": 306
+        },
+        {
+          "text": "T.",
+          "left": 284,
+          "top": 282,
+          "right": 305,
+          "bottom": 305
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 72,
+          "top": 282,
+          "right": 159,
+          "bottom": 305
+        },
+        {
+          "text": "Allison",
+          "left": 177,
+          "top": 282,
+          "right": 269,
+          "bottom": 306
+        },
+        {
+          "text": "T.",
+          "left": 284,
+          "top": 282,
+          "right": 305,
+          "bottom": 305
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Terminal:",
+          "left": 72,
+          "top": 314,
+          "right": 185,
+          "bottom": 339
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "30",
+          "left": 204,
+          "top": 315,
+          "right": 229,
+          "bottom": 338
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Terminal:",
+          "left": 72,
+          "top": 314,
+          "right": 185,
+          "bottom": 339
+        },
+        {
+          "text": "30",
+          "left": 204,
+          "top": 315,
+          "right": 229,
+          "bottom": 338
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BeerHaus",
+          "left": 71,
+          "top": 344,
+          "right": 176,
+          "bottom": 394
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Regular",
+          "left": 184,
+          "top": 384,
+          "right": 295,
+          "bottom": 446
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Check",
+          "left": 310,
+          "top": 412,
+          "right": 374,
+          "bottom": 437
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 153,
+          "top": 446,
+          "right": 159,
+          "bottom": 469
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Corona",
+          "left": 177,
+          "top": 446,
+          "right": 254,
+          "bottom": 469
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 153,
+          "top": 446,
+          "right": 159,
+          "bottom": 469
+        },
+        {
+          "text": "Corona",
+          "left": 177,
+          "top": 446,
+          "right": 254,
+          "bottom": 469
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "7,00",
+          "left": 457,
+          "top": 446,
+          "right": 507,
+          "bottom": 469
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 150,
+          "top": 478,
+          "right": 162,
+          "bottom": 501
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Weihenstephaner",
+          "left": 177,
+          "top": 477,
+          "right": 374,
+          "bottom": 506
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 150,
+          "top": 478,
+          "right": 162,
+          "bottom": 501
+        },
+        {
+          "text": "Weihenstephaner",
+          "left": 177,
+          "top": 477,
+          "right": 374,
+          "bottom": 506
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "18,00",
+          "left": 445,
+          "top": 479,
+          "right": 507,
+          "bottom": 502
+        }
+      ],
+      "parses": {
+        "date": "05-18-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "@",
+          "left": 177,
+          "top": 511,
+          "right": 188,
+          "bottom": 534
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "9.00",
+          "left": 203,
+          "top": 511,
+          "right": 254,
+          "bottom": 534
+        }
+      ],
+      "parses": {
+        "date": "05-09-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "@",
+          "left": 177,
+          "top": 511,
+          "right": 188,
+          "bottom": 534
+        },
+        {
+          "text": "9.00",
+          "left": 203,
+          "top": 511,
+          "right": 254,
+          "bottom": 534
+        }
+      ],
+      "parses": {
+        "amount": "9.00"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 153,
+          "top": 544,
+          "right": 158,
+          "bottom": 568
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dogfish",
+          "left": 177,
+          "top": 543,
+          "right": 267,
+          "bottom": 571
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "90",
+          "left": 283,
+          "top": 544,
+          "right": 308,
+          "bottom": 567
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "IPA",
+          "left": 324,
+          "top": 544,
+          "right": 361,
+          "bottom": 568
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 153,
+          "top": 544,
+          "right": 158,
+          "bottom": 568
+        },
+        {
+          "text": "Dogfish",
+          "left": 177,
+          "top": 543,
+          "right": 267,
+          "bottom": 571
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dogfish",
+          "left": 177,
+          "top": 543,
+          "right": 267,
+          "bottom": 571
+        },
+        {
+          "text": "90",
+          "left": 283,
+          "top": 544,
+          "right": 308,
+          "bottom": 567
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "90",
+          "left": 283,
+          "top": 544,
+          "right": 308,
+          "bottom": 567
+        },
+        {
+          "text": "IPA",
+          "left": 324,
+          "top": 544,
+          "right": 361,
+          "bottom": 568
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 153,
+          "top": 544,
+          "right": 158,
+          "bottom": 568
+        },
+        {
+          "text": "Dogfish",
+          "left": 177,
+          "top": 543,
+          "right": 267,
+          "bottom": 571
+        },
+        {
+          "text": "90",
+          "left": 283,
+          "top": 544,
+          "right": 308,
+          "bottom": 567
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dogfish",
+          "left": 177,
+          "top": 543,
+          "right": 267,
+          "bottom": 571
+        },
+        {
+          "text": "90",
+          "left": 283,
+          "top": 544,
+          "right": 308,
+          "bottom": 567
+        },
+        {
+          "text": "IPA",
+          "left": 324,
+          "top": 544,
+          "right": 361,
+          "bottom": 568
+        }
+      ],
+      "parses": {
+        "date": "05-24-1990"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 153,
+          "top": 544,
+          "right": 158,
+          "bottom": 568
+        },
+        {
+          "text": "Dogfish",
+          "left": 177,
+          "top": 543,
+          "right": 267,
+          "bottom": 571
+        },
+        {
+          "text": "90",
+          "left": 283,
+          "top": 544,
+          "right": 308,
+          "bottom": 567
+        },
+        {
+          "text": "IPA",
+          "left": 324,
+          "top": 544,
+          "right": 361,
+          "bottom": 568
+        }
+      ],
+      "parses": {
+        "date": "05-24-1990"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "11.00",
+          "left": 445,
+          "top": 545,
+          "right": 506,
+          "bottom": 569
+        }
+      ],
+      "parses": {
+        "date": "05-11-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 152,
+          "top": 577,
+          "right": 158,
+          "bottom": 600
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sam",
+          "left": 177,
+          "top": 577,
+          "right": 214,
+          "bottom": 600
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Smith",
+          "left": 229,
+          "top": 576,
+          "right": 294,
+          "bottom": 600
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Cider",
+          "left": 309,
+          "top": 576,
+          "right": 374,
+          "bottom": 601
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 152,
+          "top": 577,
+          "right": 158,
+          "bottom": 600
+        },
+        {
+          "text": "Sam",
+          "left": 177,
+          "top": 577,
+          "right": 214,
+          "bottom": 600
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sam",
+          "left": 177,
+          "top": 577,
+          "right": 214,
+          "bottom": 600
+        },
+        {
+          "text": "Smith",
+          "left": 229,
+          "top": 576,
+          "right": 294,
+          "bottom": 600
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Smith",
+          "left": 229,
+          "top": 576,
+          "right": 294,
+          "bottom": 600
+        },
+        {
+          "text": "Cider",
+          "left": 309,
+          "top": 576,
+          "right": 374,
+          "bottom": 601
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 152,
+          "top": 577,
+          "right": 158,
+          "bottom": 600
+        },
+        {
+          "text": "Sam",
+          "left": 177,
+          "top": 577,
+          "right": 214,
+          "bottom": 600
+        },
+        {
+          "text": "Smith",
+          "left": 229,
+          "top": 576,
+          "right": 294,
+          "bottom": 600
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sam",
+          "left": 177,
+          "top": 577,
+          "right": 214,
+          "bottom": 600
+        },
+        {
+          "text": "Smith",
+          "left": 229,
+          "top": 576,
+          "right": 294,
+          "bottom": 600
+        },
+        {
+          "text": "Cider",
+          "left": 309,
+          "top": 576,
+          "right": 374,
+          "bottom": 601
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 152,
+          "top": 577,
+          "right": 158,
+          "bottom": 600
+        },
+        {
+          "text": "Sam",
+          "left": 177,
+          "top": 577,
+          "right": 214,
+          "bottom": 600
+        },
+        {
+          "text": "Smith",
+          "left": 229,
+          "top": 576,
+          "right": 294,
+          "bottom": 600
+        },
+        {
+          "text": "Cider",
+          "left": 309,
+          "top": 576,
+          "right": 374,
+          "bottom": 601
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "9,00",
+          "left": 456,
+          "top": 578,
+          "right": 506,
+          "bottom": 601
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 150,
+          "top": 609,
+          "right": 161,
+          "bottom": 632
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Outlaw",
+          "left": 176,
+          "top": 608,
+          "right": 254,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mik",
+          "left": 269,
+          "top": 608,
+          "right": 307,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Stout",
+          "left": 322,
+          "top": 610,
+          "right": 386,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 150,
+          "top": 609,
+          "right": 161,
+          "bottom": 632
+        },
+        {
+          "text": "Outlaw",
+          "left": 176,
+          "top": 608,
+          "right": 254,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Outlaw",
+          "left": 176,
+          "top": 608,
+          "right": 254,
+          "bottom": 633
+        },
+        {
+          "text": "Mik",
+          "left": 269,
+          "top": 608,
+          "right": 307,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mik",
+          "left": 269,
+          "top": 608,
+          "right": 307,
+          "bottom": 633
+        },
+        {
+          "text": "Stout",
+          "left": 322,
+          "top": 610,
+          "right": 386,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 150,
+          "top": 609,
+          "right": 161,
+          "bottom": 632
+        },
+        {
+          "text": "Outlaw",
+          "left": 176,
+          "top": 608,
+          "right": 254,
+          "bottom": 633
+        },
+        {
+          "text": "Mik",
+          "left": 269,
+          "top": 608,
+          "right": 307,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Outlaw",
+          "left": 176,
+          "top": 608,
+          "right": 254,
+          "bottom": 633
+        },
+        {
+          "text": "Mik",
+          "left": 269,
+          "top": 608,
+          "right": 307,
+          "bottom": 633
+        },
+        {
+          "text": "Stout",
+          "left": 322,
+          "top": 610,
+          "right": 386,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 150,
+          "top": 609,
+          "right": 161,
+          "bottom": 632
+        },
+        {
+          "text": "Outlaw",
+          "left": 176,
+          "top": 608,
+          "right": 254,
+          "bottom": 633
+        },
+        {
+          "text": "Mik",
+          "left": 269,
+          "top": 608,
+          "right": 307,
+          "bottom": 633
+        },
+        {
+          "text": "Stout",
+          "left": 322,
+          "top": 610,
+          "right": 386,
+          "bottom": 633
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "18.00",
+          "left": 445,
+          "top": 610,
+          "right": 506,
+          "bottom": 633
+        }
+      ],
+      "parses": {
+        "date": "05-18-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "@",
+          "left": 176,
+          "top": 641,
+          "right": 187,
+          "bottom": 665
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "9.00",
+          "left": 203,
+          "top": 641,
+          "right": 254,
+          "bottom": 665
+        }
+      ],
+      "parses": {
+        "date": "05-09-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "@",
+          "left": 176,
+          "top": 641,
+          "right": 187,
+          "bottom": 665
+        },
+        {
+          "text": "9.00",
+          "left": 203,
+          "top": 641,
+          "right": 254,
+          "bottom": 665
+        }
+      ],
+      "parses": {
+        "amount": "9.00"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 152,
+          "top": 675,
+          "right": 158,
+          "bottom": 697
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Hitachino",
+          "left": 176,
+          "top": 673,
+          "right": 294,
+          "bottom": 698
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Nest",
+          "left": 310,
+          "top": 675,
+          "right": 359,
+          "bottom": 698
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 152,
+          "top": 675,
+          "right": 158,
+          "bottom": 697
+        },
+        {
+          "text": "Hitachino",
+          "left": 176,
+          "top": 673,
+          "right": 294,
+          "bottom": 698
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Hitachino",
+          "left": 176,
+          "top": 673,
+          "right": 294,
+          "bottom": 698
+        },
+        {
+          "text": "Nest",
+          "left": 310,
+          "top": 675,
+          "right": 359,
+          "bottom": 698
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 152,
+          "top": 675,
+          "right": 158,
+          "bottom": 697
+        },
+        {
+          "text": "Hitachino",
+          "left": 176,
+          "top": 673,
+          "right": 294,
+          "bottom": 698
+        },
+        {
+          "text": "Nest",
+          "left": 310,
+          "top": 675,
+          "right": 359,
+          "bottom": 698
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "13.00",
+          "left": 445,
+          "top": 675,
+          "right": 506,
+          "bottom": 698
+        }
+      ],
+      "parses": {
+        "date": "05-13-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Subtotal",
+          "left": 202,
+          "top": 738,
+          "right": 304,
+          "bottom": 763
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "76.00",
+          "left": 415,
+          "top": 740,
+          "right": 479,
+          "bottom": 763
+        }
+      ],
+      "parses": {
+        "date": "05-24-1976"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Sales",
+          "left": 189,
+          "top": 772,
+          "right": 253,
+          "bottom": 796
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tax",
+          "left": 269,
+          "top": 773,
+          "right": 307,
+          "bottom": 796
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sales",
+          "left": 189,
+          "top": 772,
+          "right": 253,
+          "bottom": 796
+        },
+        {
+          "text": "Tax",
+          "left": 269,
+          "top": 773,
+          "right": 307,
+          "bottom": 796
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6.27",
+          "left": 428,
+          "top": 773,
+          "right": 479,
+          "bottom": 797
+        }
+      ],
+      "parses": {
+        "date": "05-06-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Total",
+          "left": 243,
+          "top": 799,
+          "right": 303,
+          "bottom": 839
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "82.27",
+          "left": 415,
+          "top": 806,
+          "right": 479,
+          "bottom": 830
+        }
+      ],
+      "parses": {
+        "date": "05-24-1982"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 69,
+          "top": 908,
+          "right": 509,
+          "bottom": 926
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Paynents",
+          "left": 218,
+          "top": 908,
+          "right": 333,
+          "bottom": 969
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 69,
+          "top": 908,
+          "right": 509,
+          "bottom": 926
+        },
+        {
+          "text": "Paynents",
+          "left": 218,
+          "top": 908,
+          "right": 333,
+          "bottom": 969
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mastercard",
+          "left": 69,
+          "top": 1000,
+          "right": 200,
+          "bottom": 1025
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EMY",
+          "left": 216,
+          "top": 1001,
+          "right": 253,
+          "bottom": 1025
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mastercard",
+          "left": 69,
+          "top": 1000,
+          "right": 200,
+          "bottom": 1025
+        },
+        {
+          "text": "EMY",
+          "left": 216,
+          "top": 1001,
+          "right": 253,
+          "bottom": 1025
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "82.27",
+          "left": 441,
+          "top": 1002,
+          "right": 505,
+          "bottom": 1025
+        }
+      ],
+      "parses": {
+        "date": "05-24-1982"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "XXXXXXXXXXXX5052",
+          "left": 96,
+          "top": 1034,
+          "right": 306,
+          "bottom": 1057
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 323,
+          "top": 1045,
+          "right": 331,
+          "bottom": 1048
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "WALTER/JENS",
+          "left": 348,
+          "top": 1034,
+          "right": 492,
+          "bottom": 1060
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 323,
+          "top": 1045,
+          "right": 331,
+          "bottom": 1048
+        },
+        {
+          "text": "WALTER/JENS",
+          "left": 348,
+          "top": 1034,
+          "right": 492,
+          "bottom": 1060
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "MasterCard",
+          "left": 215,
+          "top": 1066,
+          "right": 346,
+          "bottom": 1091
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "CVM:",
+          "left": 95,
+          "top": 1100,
+          "right": 143,
+          "bottom": 1124
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Signature",
+          "left": 162,
+          "top": 1100,
+          "right": 279,
+          "bottom": 1126
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "CVM:",
+          "left": 95,
+          "top": 1100,
+          "right": 143,
+          "bottom": 1124
+        },
+        {
+          "text": "Signature",
+          "left": 162,
+          "top": 1100,
+          "right": 279,
+          "bottom": 1126
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Entry",
+          "left": 96,
+          "top": 1133,
+          "right": 160,
+          "bottom": 1159
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Made:",
+          "left": 175,
+          "top": 1132,
+          "right": 236,
+          "bottom": 1157
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Chip",
+          "left": 254,
+          "top": 1132,
+          "right": 306,
+          "bottom": 1159
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Entry",
+          "left": 96,
+          "top": 1133,
+          "right": 160,
+          "bottom": 1159
+        },
+        {
+          "text": "Made:",
+          "left": 175,
+          "top": 1132,
+          "right": 236,
+          "bottom": 1157
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Made:",
+          "left": 175,
+          "top": 1132,
+          "right": 236,
+          "bottom": 1157
+        },
+        {
+          "text": "Chip",
+          "left": 254,
+          "top": 1132,
+          "right": 306,
+          "bottom": 1159
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Entry",
+          "left": 96,
+          "top": 1133,
+          "right": 160,
+          "bottom": 1159
+        },
+        {
+          "text": "Made:",
+          "left": 175,
+          "top": 1132,
+          "right": 236,
+          "bottom": 1157
+        },
+        {
+          "text": "Chip",
+          "left": 254,
+          "top": 1132,
+          "right": 306,
+          "bottom": 1159
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Auth",
+          "left": 95,
+          "top": 1165,
+          "right": 146,
+          "bottom": 1189
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mode:",
+          "left": 161,
+          "top": 1165,
+          "right": 223,
+          "bottom": 1190
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Issuer",
+          "left": 243,
+          "top": 1165,
+          "right": 319,
+          "bottom": 1189
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Auth",
+          "left": 95,
+          "top": 1165,
+          "right": 146,
+          "bottom": 1189
+        },
+        {
+          "text": "Mode:",
+          "left": 161,
+          "top": 1165,
+          "right": 223,
+          "bottom": 1190
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mode:",
+          "left": 161,
+          "top": 1165,
+          "right": 223,
+          "bottom": 1190
+        },
+        {
+          "text": "Issuer",
+          "left": 243,
+          "top": 1165,
+          "right": 319,
+          "bottom": 1189
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Auth",
+          "left": 95,
+          "top": 1165,
+          "right": 146,
+          "bottom": 1189
+        },
+        {
+          "text": "Mode:",
+          "left": 161,
+          "top": 1165,
+          "right": 223,
+          "bottom": 1190
+        },
+        {
+          "text": "Issuer",
+          "left": 243,
+          "top": 1165,
+          "right": 319,
+          "bottom": 1189
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "AID:",
+          "left": 95,
+          "top": 1199,
+          "right": 143,
+          "bottom": 1222
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0000000041010",
+          "left": 162,
+          "top": 1198,
+          "right": 345,
+          "bottom": 1222
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "AID:",
+          "left": 95,
+          "top": 1199,
+          "right": 143,
+          "bottom": 1222
+        },
+        {
+          "text": "0000000041010",
+          "left": 162,
+          "top": 1198,
+          "right": 345,
+          "bottom": 1222
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "TVR:",
+          "left": 95,
+          "top": 1231,
+          "right": 143,
+          "bottom": 1255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0000008000",
+          "left": 161,
+          "top": 1230,
+          "right": 293,
+          "bottom": 1254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "TVR:",
+          "left": 95,
+          "top": 1231,
+          "right": 143,
+          "bottom": 1255
+        },
+        {
+          "text": "0000008000",
+          "left": 161,
+          "top": 1230,
+          "right": 293,
+          "bottom": 1254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "TAD:",
+          "left": 96,
+          "top": 1264,
+          "right": 143,
+          "bottom": 1287
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "011060900324000006E0000000000000",
+          "left": 161,
+          "top": 1263,
+          "right": 585,
+          "bottom": 1287
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "TAD:",
+          "left": 96,
+          "top": 1264,
+          "right": 143,
+          "bottom": 1287
+        },
+        {
+          "text": "011060900324000006E0000000000000",
+          "left": 161,
+          "top": 1263,
+          "right": 585,
+          "bottom": 1287
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "OOFF",
+          "left": 29,
+          "top": 1296,
+          "right": 79,
+          "bottom": 1320
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "TSI:",
+          "left": 96,
+          "top": 1329,
+          "right": 143,
+          "bottom": 1352
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "E800",
+          "left": 163,
+          "top": 1329,
+          "right": 212,
+          "bottom": 1351
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "TSI:",
+          "left": 96,
+          "top": 1329,
+          "right": 143,
+          "bottom": 1352
+        },
+        {
+          "text": "E800",
+          "left": 163,
+          "top": 1329,
+          "right": 212,
+          "bottom": 1351
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ARC:",
+          "left": 95,
+          "top": 1361,
+          "right": 142,
+          "bottom": 1384
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "00",
+          "left": 161,
+          "top": 1361,
+          "right": 186,
+          "bottom": 1383
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ARC:",
+          "left": 95,
+          "top": 1361,
+          "right": 142,
+          "bottom": 1384
+        },
+        {
+          "text": "00",
+          "left": 161,
+          "top": 1361,
+          "right": 186,
+          "bottom": 1383
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Total",
+          "left": 68,
+          "top": 1457,
+          "right": 129,
+          "bottom": 1481
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Payments",
+          "left": 148,
+          "top": 1457,
+          "right": 252,
+          "bottom": 1484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Total",
+          "left": 68,
+          "top": 1457,
+          "right": 129,
+          "bottom": 1481
+        },
+        {
+          "text": "Payments",
+          "left": 148,
+          "top": 1457,
+          "right": 252,
+          "bottom": 1484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "82.27",
+          "left": 441,
+          "top": 1457,
+          "right": 504,
+          "bottom": 1481
+        }
+      ],
+      "parses": {
+        "date": "05-24-1982"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Remaining",
+          "left": 68,
+          "top": 1523,
+          "right": 186,
+          "bottom": 1549
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Balance",
+          "left": 201,
+          "top": 1521,
+          "right": 292,
+          "bottom": 1546
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Remaining",
+          "left": 68,
+          "top": 1523,
+          "right": 186,
+          "bottom": 1549
+        },
+        {
+          "text": "Balance",
+          "left": 201,
+          "top": 1521,
+          "right": 292,
+          "bottom": 1546
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0.00",
+          "left": 454,
+          "top": 1522,
+          "right": 505,
+          "bottom": 1545
+        }
+      ],
+      "parses": {
+        "amount": "0.00"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Check",
+          "left": 68,
+          "top": 1586,
+          "right": 132,
+          "bottom": 1611
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fully",
+          "left": 149,
+          "top": 1586,
+          "right": 212,
+          "bottom": 1613
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Authorized",
+          "left": 228,
+          "top": 1586,
+          "right": 359,
+          "bottom": 1610
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Check",
+          "left": 68,
+          "top": 1586,
+          "right": 132,
+          "bottom": 1611
+        },
+        {
+          "text": "Fully",
+          "left": 149,
+          "top": 1586,
+          "right": 212,
+          "bottom": 1613
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fully",
+          "left": 149,
+          "top": 1586,
+          "right": 212,
+          "bottom": 1613
+        },
+        {
+          "text": "Authorized",
+          "left": 228,
+          "top": 1586,
+          "right": 359,
+          "bottom": 1610
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Check",
+          "left": 68,
+          "top": 1586,
+          "right": 132,
+          "bottom": 1611
+        },
+        {
+          "text": "Fully",
+          "left": 149,
+          "top": 1586,
+          "right": 212,
+          "bottom": 1613
+        },
+        {
+          "text": "Authorized",
+          "left": 228,
+          "top": 1586,
+          "right": 359,
+          "bottom": 1610
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "*eeexTip",
+          "left": 68,
+          "top": 1684,
+          "right": 173,
+          "bottom": 1711
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Not",
+          "left": 189,
+          "top": 1684,
+          "right": 224,
+          "bottom": 1707
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Includede**",
+          "left": 242,
+          "top": 1682,
+          "right": 412,
+          "bottom": 1707
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "*eeexTip",
+          "left": 68,
+          "top": 1684,
+          "right": 173,
+          "bottom": 1711
+        },
+        {
+          "text": "Not",
+          "left": 189,
+          "top": 1684,
+          "right": 224,
+          "bottom": 1707
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Not",
+          "left": 189,
+          "top": 1684,
+          "right": 224,
+          "bottom": 1707
+        },
+        {
+          "text": "Includede**",
+          "left": 242,
+          "top": 1682,
+          "right": 412,
+          "bottom": 1707
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "*eeexTip",
+          "left": 68,
+          "top": 1684,
+          "right": 173,
+          "bottom": 1711
+        },
+        {
+          "text": "Not",
+          "left": 189,
+          "top": 1684,
+          "right": 224,
+          "bottom": 1707
+        },
+        {
+          "text": "Includede**",
+          "left": 242,
+          "top": 1682,
+          "right": 412,
+          "bottom": 1707
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "This",
+          "left": 68,
+          "top": 1716,
+          "right": 119,
+          "bottom": 1740
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "tip",
+          "left": 135,
+          "top": 1717,
+          "right": 172,
+          "bottom": 1743
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "provided",
+          "left": 307,
+          "top": 1715,
+          "right": 412,
+          "bottom": 1742
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "for",
+          "left": 427,
+          "top": 1715,
+          "right": 465,
+          "bottom": 1739
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "This",
+          "left": 68,
+          "top": 1716,
+          "right": 119,
+          "bottom": 1740
+        },
+        {
+          "text": "tip",
+          "left": 135,
+          "top": 1717,
+          "right": 172,
+          "bottom": 1743
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "tip",
+          "left": 135,
+          "top": 1717,
+          "right": 172,
+          "bottom": 1743
+        },
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        },
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        },
+        {
+          "text": "provided",
+          "left": 307,
+          "top": 1715,
+          "right": 412,
+          "bottom": 1742
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "provided",
+          "left": 307,
+          "top": 1715,
+          "right": 412,
+          "bottom": 1742
+        },
+        {
+          "text": "for",
+          "left": 427,
+          "top": 1715,
+          "right": 465,
+          "bottom": 1739
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "This",
+          "left": 68,
+          "top": 1716,
+          "right": 119,
+          "bottom": 1740
+        },
+        {
+          "text": "tip",
+          "left": 135,
+          "top": 1717,
+          "right": 172,
+          "bottom": 1743
+        },
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "tip",
+          "left": 135,
+          "top": 1717,
+          "right": 172,
+          "bottom": 1743
+        },
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        },
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        },
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        },
+        {
+          "text": "provided",
+          "left": 307,
+          "top": 1715,
+          "right": 412,
+          "bottom": 1742
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        },
+        {
+          "text": "provided",
+          "left": 307,
+          "top": 1715,
+          "right": 412,
+          "bottom": 1742
+        },
+        {
+          "text": "for",
+          "left": 427,
+          "top": 1715,
+          "right": 465,
+          "bottom": 1739
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "This",
+          "left": 68,
+          "top": 1716,
+          "right": 119,
+          "bottom": 1740
+        },
+        {
+          "text": "tip",
+          "left": 135,
+          "top": 1717,
+          "right": 172,
+          "bottom": 1743
+        },
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        },
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "tip",
+          "left": 135,
+          "top": 1717,
+          "right": 172,
+          "bottom": 1743
+        },
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        },
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        },
+        {
+          "text": "provided",
+          "left": 307,
+          "top": 1715,
+          "right": 412,
+          "bottom": 1742
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "guide",
+          "left": 188,
+          "top": 1715,
+          "right": 252,
+          "bottom": 1743
+        },
+        {
+          "text": "is",
+          "left": 270,
+          "top": 1715,
+          "right": 292,
+          "bottom": 1739
+        },
+        {
+          "text": "provided",
+          "left": 307,
+          "top": 1715,
+          "right": 412,
+          "bottom": 1742
+        },
+        {
+          "text": "for",
+          "left": 427,
+          "top": 1715,
+          "right": 465,
+          "bottom": 1739
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "your",
+          "left": 68,
+          "top": 1754,
+          "right": 119,
+          "bottom": 1775
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "convenience.",
+          "left": 134,
+          "top": 1749,
+          "right": 289,
+          "bottom": 1772
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "your",
+          "left": 68,
+          "top": 1754,
+          "right": 119,
+          "bottom": 1775
+        },
+        {
+          "text": "convenience.",
+          "left": 134,
+          "top": 1749,
+          "right": 289,
+          "bottom": 1772
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "15%-11.40",
+          "left": 164,
+          "top": 1813,
+          "right": 279,
+          "bottom": 1837
+        }
+      ],
+      "parses": {
+        "date": "05-11-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "18%-",
+          "left": 164,
+          "top": 1846,
+          "right": 211,
+          "bottom": 1869
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "13.68",
+          "left": 212,
+          "top": 1841,
+          "right": 279,
+          "bottom": 1878
+        }
+      ],
+      "parses": {
+        "date": "05-13-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "18%-",
+          "left": 164,
+          "top": 1846,
+          "right": 211,
+          "bottom": 1869
+        },
+        {
+          "text": "13.68",
+          "left": 212,
+          "top": 1841,
+          "right": 279,
+          "bottom": 1878
+        }
+      ],
+      "parses": {
+        "date": "05-13-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "20%-15.20",
+          "left": 161,
+          "top": 1877,
+          "right": 279,
+          "bottom": 1902
+        }
+      ],
+      "parses": {
+        "date": "05-15-2022"
+      }
+    }
+  ],
+  "height": 1906,
+  "width": 617,
+  "filename": "C:\\Users\\Hrithik Dhoka\\InvoiceNet\\processed_data\\val\\beerhaus_20181208_006.png"
+}

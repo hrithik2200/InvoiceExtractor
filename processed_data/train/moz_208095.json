@@ -1,0 +1,2339 @@
+{
+  "fields": {
+    "invoice_number": "208035",
+    "vendor_name": "MOZ Cafe",
+    "invoice_date": "05-11-2019",
+    "net_amount": "15.74",
+    "tax_amount": "1.10",
+    "total_amount": "16.84"
+  },
+  "nGrams": [
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 26,
+          "top": 86,
+          "right": 36,
+          "bottom": 106
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "MOZ",
+          "left": 226,
+          "top": 84,
+          "right": 259,
+          "bottom": 105
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Cafe",
+          "left": 273,
+          "top": 83,
+          "right": 319,
+          "bottom": 104
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "MOZ",
+          "left": 226,
+          "top": 84,
+          "right": 259,
+          "bottom": 105
+        },
+        {
+          "text": "Cafe",
+          "left": 273,
+          "top": 83,
+          "right": 319,
+          "bottom": 104
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "36",
+          "left": 203,
+          "top": 114,
+          "right": 224,
+          "bottom": 135
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sth",
+          "left": 238,
+          "top": 112,
+          "right": 272,
+          "bottom": 134
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "St",
+          "left": 285,
+          "top": 113,
+          "right": 306,
+          "bottom": 133
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "36",
+          "left": 203,
+          "top": 114,
+          "right": 224,
+          "bottom": 135
+        },
+        {
+          "text": "Sth",
+          "left": 238,
+          "top": 112,
+          "right": 272,
+          "bottom": 134
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sth",
+          "left": 238,
+          "top": 112,
+          "right": 272,
+          "bottom": 134
+        },
+        {
+          "text": "St",
+          "left": 285,
+          "top": 113,
+          "right": 306,
+          "bottom": 133
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "36",
+          "left": 203,
+          "top": 114,
+          "right": 224,
+          "bottom": 135
+        },
+        {
+          "text": "Sth",
+          "left": 238,
+          "top": 112,
+          "right": 272,
+          "bottom": 134
+        },
+        {
+          "text": "St",
+          "left": 285,
+          "top": 113,
+          "right": 306,
+          "bottom": 133
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "San",
+          "left": 120,
+          "top": 144,
+          "right": 154,
+          "bottom": 164
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Francisco,",
+          "left": 169,
+          "top": 144,
+          "right": 281,
+          "bottom": 165
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ca",
+          "left": 297,
+          "top": 143,
+          "right": 319,
+          "bottom": 163
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "94122",
+          "left": 333,
+          "top": 143,
+          "right": 390,
+          "bottom": 163
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "San",
+          "left": 120,
+          "top": 144,
+          "right": 154,
+          "bottom": 164
+        },
+        {
+          "text": "Francisco,",
+          "left": 169,
+          "top": 144,
+          "right": 281,
+          "bottom": 165
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Francisco,",
+          "left": 169,
+          "top": 144,
+          "right": 281,
+          "bottom": 165
+        },
+        {
+          "text": "Ca",
+          "left": 297,
+          "top": 143,
+          "right": 319,
+          "bottom": 163
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ca",
+          "left": 297,
+          "top": 143,
+          "right": 319,
+          "bottom": 163
+        },
+        {
+          "text": "94122",
+          "left": 333,
+          "top": 143,
+          "right": 390,
+          "bottom": 163
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "San",
+          "left": 120,
+          "top": 144,
+          "right": 154,
+          "bottom": 164
+        },
+        {
+          "text": "Francisco,",
+          "left": 169,
+          "top": 144,
+          "right": 281,
+          "bottom": 165
+        },
+        {
+          "text": "Ca",
+          "left": 297,
+          "top": 143,
+          "right": 319,
+          "bottom": 163
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Francisco,",
+          "left": 169,
+          "top": 144,
+          "right": 281,
+          "bottom": 165
+        },
+        {
+          "text": "Ca",
+          "left": 297,
+          "top": 143,
+          "right": 319,
+          "bottom": 163
+        },
+        {
+          "text": "94122",
+          "left": 333,
+          "top": 143,
+          "right": 390,
+          "bottom": 163
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "San",
+          "left": 120,
+          "top": 144,
+          "right": 154,
+          "bottom": 164
+        },
+        {
+          "text": "Francisco,",
+          "left": 169,
+          "top": 144,
+          "right": 281,
+          "bottom": 165
+        },
+        {
+          "text": "Ca",
+          "left": 297,
+          "top": 143,
+          "right": 319,
+          "bottom": 163
+        },
+        {
+          "text": "94122",
+          "left": 333,
+          "top": 143,
+          "right": 390,
+          "bottom": 163
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "(415)",
+          "left": 181,
+          "top": 172,
+          "right": 234,
+          "bottom": 196
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "777-1080",
+          "left": 250,
+          "top": 172,
+          "right": 343,
+          "bottom": 192
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "(415)",
+          "left": 181,
+          "top": 172,
+          "right": 234,
+          "bottom": 196
+        },
+        {
+          "text": "777-1080",
+          "left": 250,
+          "top": 172,
+          "right": 343,
+          "bottom": 192
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 27,
+          "top": 232,
+          "right": 105,
+          "bottom": 252
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mina",
+          "left": 121,
+          "top": 231,
+          "right": 167,
+          "bottom": 252
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 27,
+          "top": 232,
+          "right": 105,
+          "bottom": 252
+        },
+        {
+          "text": "Mina",
+          "left": 121,
+          "top": 231,
+          "right": 167,
+          "bottom": 252
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Station:",
+          "left": 380,
+          "top": 230,
+          "right": 471,
+          "bottom": 251
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "3",
+          "left": 487,
+          "top": 229,
+          "right": 497,
+          "bottom": 250
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Station:",
+          "left": 380,
+          "top": 230,
+          "right": 471,
+          "bottom": 251
+        },
+        {
+          "text": "3",
+          "left": 487,
+          "top": 229,
+          "right": 497,
+          "bottom": 250
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Order",
+          "left": 27,
+          "top": 289,
+          "right": 83,
+          "bottom": 310
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "#:",
+          "left": 97,
+          "top": 291,
+          "right": 116,
+          "bottom": 310
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "208095",
+          "left": 133,
+          "top": 289,
+          "right": 202,
+          "bottom": 310
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Order",
+          "left": 27,
+          "top": 289,
+          "right": 83,
+          "bottom": 310
+        },
+        {
+          "text": "#:",
+          "left": 97,
+          "top": 291,
+          "right": 116,
+          "bottom": 310
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "#:",
+          "left": 97,
+          "top": 291,
+          "right": 116,
+          "bottom": 310
+        },
+        {
+          "text": "208095",
+          "left": 133,
+          "top": 289,
+          "right": 202,
+          "bottom": 310
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Order",
+          "left": 27,
+          "top": 289,
+          "right": 83,
+          "bottom": 310
+        },
+        {
+          "text": "#:",
+          "left": 97,
+          "top": 291,
+          "right": 116,
+          "bottom": 310
+        },
+        {
+          "text": "208095",
+          "left": 133,
+          "top": 289,
+          "right": 202,
+          "bottom": 310
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dine",
+          "left": 416,
+          "top": 288,
+          "right": 461,
+          "bottom": 308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "In",
+          "left": 476,
+          "top": 288,
+          "right": 496,
+          "bottom": 308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dine",
+          "left": 416,
+          "top": 288,
+          "right": 461,
+          "bottom": 308
+        },
+        {
+          "text": "In",
+          "left": 476,
+          "top": 288,
+          "right": 496,
+          "bottom": 308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Table:",
+          "left": 27,
+          "top": 318,
+          "right": 92,
+          "bottom": 339
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5",
+          "left": 109,
+          "top": 319,
+          "right": 119,
+          "bottom": 339
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Table:",
+          "left": 27,
+          "top": 318,
+          "right": 92,
+          "bottom": 339
+        },
+        {
+          "text": "5",
+          "left": 109,
+          "top": 319,
+          "right": 119,
+          "bottom": 339
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Guests:",
+          "left": 392,
+          "top": 317,
+          "right": 470,
+          "bottom": 338
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 489,
+          "top": 317,
+          "right": 494,
+          "bottom": 337
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Guests:",
+          "left": 392,
+          "top": 317,
+          "right": 470,
+          "bottom": 338
+        },
+        {
+          "text": "1",
+          "left": 489,
+          "top": 317,
+          "right": 494,
+          "bottom": 337
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ">>",
+          "left": 181,
+          "top": 383,
+          "right": 203,
+          "bottom": 413
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "SETTLED",
+          "left": 215,
+          "top": 376,
+          "right": 297,
+          "bottom": 417
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u00ab",
+          "left": 310,
+          "top": 382,
+          "right": 320,
+          "bottom": 412
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ">>",
+          "left": 181,
+          "top": 383,
+          "right": 203,
+          "bottom": 413
+        },
+        {
+          "text": "SETTLED",
+          "left": 215,
+          "top": 376,
+          "right": 297,
+          "bottom": 417
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "SETTLED",
+          "left": 215,
+          "top": 376,
+          "right": 297,
+          "bottom": 417
+        },
+        {
+          "text": "\u00ab",
+          "left": 310,
+          "top": 382,
+          "right": 320,
+          "bottom": 412
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ">>",
+          "left": 181,
+          "top": 383,
+          "right": 203,
+          "bottom": 413
+        },
+        {
+          "text": "SETTLED",
+          "left": 215,
+          "top": 376,
+          "right": 297,
+          "bottom": 417
+        },
+        {
+          "text": "\u00ab",
+          "left": 310,
+          "top": 382,
+          "right": 320,
+          "bottom": 412
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "]",
+          "left": 29,
+          "top": 425,
+          "right": 34,
+          "bottom": 444
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "French",
+          "left": 52,
+          "top": 423,
+          "right": 119,
+          "bottom": 444
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Toast",
+          "left": 133,
+          "top": 423,
+          "right": 189,
+          "bottom": 444
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "]",
+          "left": 29,
+          "top": 425,
+          "right": 34,
+          "bottom": 444
+        },
+        {
+          "text": "French",
+          "left": 52,
+          "top": 423,
+          "right": 119,
+          "bottom": 444
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "French",
+          "left": 52,
+          "top": 423,
+          "right": 119,
+          "bottom": 444
+        },
+        {
+          "text": "Toast",
+          "left": 133,
+          "top": 423,
+          "right": 189,
+          "bottom": 444
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "]",
+          "left": 29,
+          "top": 425,
+          "right": 34,
+          "bottom": 444
+        },
+        {
+          "text": "French",
+          "left": 52,
+          "top": 423,
+          "right": 119,
+          "bottom": 444
+        },
+        {
+          "text": "Toast",
+          "left": 133,
+          "top": 423,
+          "right": 189,
+          "bottom": 444
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "12.99",
+          "left": 442,
+          "top": 421,
+          "right": 497,
+          "bottom": 442
+        }
+      ],
+      "parses": {
+        "date": "05-12-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 29,
+          "top": 453,
+          "right": 34,
+          "bottom": 473
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Large",
+          "left": 52,
+          "top": 453,
+          "right": 108,
+          "bottom": 476
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Coffee",
+          "left": 121,
+          "top": 451,
+          "right": 190,
+          "bottom": 473
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 29,
+          "top": 453,
+          "right": 34,
+          "bottom": 473
+        },
+        {
+          "text": "Large",
+          "left": 52,
+          "top": 453,
+          "right": 108,
+          "bottom": 476
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Large",
+          "left": 52,
+          "top": 453,
+          "right": 108,
+          "bottom": 476
+        },
+        {
+          "text": "Coffee",
+          "left": 121,
+          "top": 451,
+          "right": 190,
+          "bottom": 473
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 29,
+          "top": 453,
+          "right": 34,
+          "bottom": 473
+        },
+        {
+          "text": "Large",
+          "left": 52,
+          "top": 453,
+          "right": 108,
+          "bottom": 476
+        },
+        {
+          "text": "Coffee",
+          "left": 121,
+          "top": 451,
+          "right": 190,
+          "bottom": 473
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2.75",
+          "left": 452,
+          "top": 451,
+          "right": 497,
+          "bottom": 471
+        }
+      ],
+      "parses": {
+        "date": "05-02-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Regular",
+          "left": 51,
+          "top": 481,
+          "right": 131,
+          "bottom": 505
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bar",
+          "left": 27,
+          "top": 540,
+          "right": 61,
+          "bottom": 560
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Subtotal:",
+          "left": 74,
+          "top": 538,
+          "right": 176,
+          "bottom": 560
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bar",
+          "left": 27,
+          "top": 540,
+          "right": 61,
+          "bottom": 560
+        },
+        {
+          "text": "Subtotal:",
+          "left": 74,
+          "top": 538,
+          "right": 176,
+          "bottom": 560
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0.00",
+          "left": 452,
+          "top": 538,
+          "right": 497,
+          "bottom": 558
+        }
+      ],
+      "parses": {
+        "amount": "0.00"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Food",
+          "left": 28,
+          "top": 568,
+          "right": 72,
+          "bottom": 589
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Subtotal:",
+          "left": 86,
+          "top": 568,
+          "right": 188,
+          "bottom": 589
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Food",
+          "left": 28,
+          "top": 568,
+          "right": 72,
+          "bottom": 589
+        },
+        {
+          "text": "Subtotal:",
+          "left": 86,
+          "top": 568,
+          "right": 188,
+          "bottom": 589
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "15.74",
+          "left": 443,
+          "top": 567,
+          "right": 498,
+          "bottom": 587
+        }
+      ],
+      "parses": {
+        "date": "05-15-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "SF",
+          "left": 27,
+          "top": 598,
+          "right": 49,
+          "bottom": 618
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tax:",
+          "left": 63,
+          "top": 598,
+          "right": 105,
+          "bottom": 618
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "SF",
+          "left": 27,
+          "top": 598,
+          "right": 49,
+          "bottom": 618
+        },
+        {
+          "text": "Tax:",
+          "left": 63,
+          "top": 598,
+          "right": 105,
+          "bottom": 618
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1.10",
+          "left": 454,
+          "top": 596,
+          "right": 497,
+          "bottom": 617
+        }
+      ],
+      "parses": {
+        "date": "05-01-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Mastercard",
+          "left": 28,
+          "top": 731,
+          "right": 144,
+          "bottom": 752
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tendered:",
+          "left": 157,
+          "top": 731,
+          "right": 259,
+          "bottom": 751
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mastercard",
+          "left": 28,
+          "top": 731,
+          "right": 144,
+          "bottom": 752
+        },
+        {
+          "text": "Tendered:",
+          "left": 157,
+          "top": 731,
+          "right": 259,
+          "bottom": 751
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "16.84",
+          "left": 443,
+          "top": 730,
+          "right": 498,
+          "bottom": 750
+        }
+      ],
+      "parses": {
+        "date": "05-16-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "5052",
+          "left": 51,
+          "top": 760,
+          "right": 96,
+          "bottom": 780
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "XX/XX",
+          "left": 110,
+          "top": 760,
+          "right": 168,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5052",
+          "left": 51,
+          "top": 760,
+          "right": 96,
+          "bottom": 780
+        },
+        {
+          "text": "XX/XX",
+          "left": 110,
+          "top": 760,
+          "right": 168,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EDC",
+          "left": 52,
+          "top": 789,
+          "right": 85,
+          "bottom": 809
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tran",
+          "left": 99,
+          "top": 789,
+          "right": 144,
+          "bottom": 809
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ID:",
+          "left": 159,
+          "top": 789,
+          "right": 188,
+          "bottom": 809
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "354241989",
+          "left": 205,
+          "top": 788,
+          "right": 309,
+          "bottom": 808
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EDC",
+          "left": 52,
+          "top": 789,
+          "right": 85,
+          "bottom": 809
+        },
+        {
+          "text": "Tran",
+          "left": 99,
+          "top": 789,
+          "right": 144,
+          "bottom": 809
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tran",
+          "left": 99,
+          "top": 789,
+          "right": 144,
+          "bottom": 809
+        },
+        {
+          "text": "ID:",
+          "left": 159,
+          "top": 789,
+          "right": 188,
+          "bottom": 809
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ID:",
+          "left": 159,
+          "top": 789,
+          "right": 188,
+          "bottom": 809
+        },
+        {
+          "text": "354241989",
+          "left": 205,
+          "top": 788,
+          "right": 309,
+          "bottom": 808
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EDC",
+          "left": 52,
+          "top": 789,
+          "right": 85,
+          "bottom": 809
+        },
+        {
+          "text": "Tran",
+          "left": 99,
+          "top": 789,
+          "right": 144,
+          "bottom": 809
+        },
+        {
+          "text": "ID:",
+          "left": 159,
+          "top": 789,
+          "right": 188,
+          "bottom": 809
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tran",
+          "left": 99,
+          "top": 789,
+          "right": 144,
+          "bottom": 809
+        },
+        {
+          "text": "ID:",
+          "left": 159,
+          "top": 789,
+          "right": 188,
+          "bottom": 809
+        },
+        {
+          "text": "354241989",
+          "left": 205,
+          "top": 788,
+          "right": 309,
+          "bottom": 808
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EDC",
+          "left": 52,
+          "top": 789,
+          "right": 85,
+          "bottom": 809
+        },
+        {
+          "text": "Tran",
+          "left": 99,
+          "top": 789,
+          "right": 144,
+          "bottom": 809
+        },
+        {
+          "text": "ID:",
+          "left": 159,
+          "top": 789,
+          "right": 188,
+          "bottom": 809
+        },
+        {
+          "text": "354241989",
+          "left": 205,
+          "top": 788,
+          "right": 309,
+          "bottom": 808
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 378,
+          "top": 819,
+          "right": 516,
+          "bottom": 835
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "CHANGE",
+          "left": 28,
+          "top": 846,
+          "right": 97,
+          "bottom": 866
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ":",
+          "left": 103,
+          "top": 852,
+          "right": 106,
+          "bottom": 866
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "CHANGE",
+          "left": 28,
+          "top": 846,
+          "right": 97,
+          "bottom": 866
+        },
+        {
+          "text": ":",
+          "left": 103,
+          "top": 852,
+          "right": 106,
+          "bottom": 866
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0.00",
+          "left": 453,
+          "top": 844,
+          "right": 498,
+          "bottom": 865
+        }
+      ],
+      "parses": {
+        "amount": "0.00"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": ">\u00bb",
+          "left": 155,
+          "top": 898,
+          "right": 169,
+          "bottom": 958
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ticket",
+          "left": 193,
+          "top": 902,
+          "right": 262,
+          "bottom": 944
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "#:",
+          "left": 276,
+          "top": 905,
+          "right": 296,
+          "bottom": 943
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6",
+          "left": 311,
+          "top": 903,
+          "right": 322,
+          "bottom": 943
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u00ab",
+          "left": 335,
+          "top": 909,
+          "right": 345,
+          "bottom": 939
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ">\u00bb",
+          "left": 155,
+          "top": 898,
+          "right": 169,
+          "bottom": 958
+        },
+        {
+          "text": "Ticket",
+          "left": 193,
+          "top": 902,
+          "right": 262,
+          "bottom": 944
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ticket",
+          "left": 193,
+          "top": 902,
+          "right": 262,
+          "bottom": 944
+        },
+        {
+          "text": "#:",
+          "left": 276,
+          "top": 905,
+          "right": 296,
+          "bottom": 943
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "#:",
+          "left": 276,
+          "top": 905,
+          "right": 296,
+          "bottom": 943
+        },
+        {
+          "text": "6",
+          "left": 311,
+          "top": 903,
+          "right": 322,
+          "bottom": 943
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6",
+          "left": 311,
+          "top": 903,
+          "right": 322,
+          "bottom": 943
+        },
+        {
+          "text": "\u00ab",
+          "left": 335,
+          "top": 909,
+          "right": 345,
+          "bottom": 939
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ">\u00bb",
+          "left": 155,
+          "top": 898,
+          "right": 169,
+          "bottom": 958
+        },
+        {
+          "text": "Ticket",
+          "left": 193,
+          "top": 902,
+          "right": 262,
+          "bottom": 944
+        },
+        {
+          "text": "#:",
+          "left": 276,
+          "top": 905,
+          "right": 296,
+          "bottom": 943
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ticket",
+          "left": 193,
+          "top": 902,
+          "right": 262,
+          "bottom": 944
+        },
+        {
+          "text": "#:",
+          "left": 276,
+          "top": 905,
+          "right": 296,
+          "bottom": 943
+        },
+        {
+          "text": "6",
+          "left": 311,
+          "top": 903,
+          "right": 322,
+          "bottom": 943
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "#:",
+          "left": 276,
+          "top": 905,
+          "right": 296,
+          "bottom": 943
+        },
+        {
+          "text": "6",
+          "left": 311,
+          "top": 903,
+          "right": 322,
+          "bottom": 943
+        },
+        {
+          "text": "\u00ab",
+          "left": 335,
+          "top": 909,
+          "right": 345,
+          "bottom": 939
+        }
+      ],
+      "parses": {
+        "date": "05-06-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": ">\u00bb",
+          "left": 155,
+          "top": 898,
+          "right": 169,
+          "bottom": 958
+        },
+        {
+          "text": "Ticket",
+          "left": 193,
+          "top": 902,
+          "right": 262,
+          "bottom": 944
+        },
+        {
+          "text": "#:",
+          "left": 276,
+          "top": 905,
+          "right": 296,
+          "bottom": 943
+        },
+        {
+          "text": "6",
+          "left": 311,
+          "top": 903,
+          "right": 322,
+          "bottom": 943
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ticket",
+          "left": 193,
+          "top": 902,
+          "right": 262,
+          "bottom": 944
+        },
+        {
+          "text": "#:",
+          "left": 276,
+          "top": 905,
+          "right": 296,
+          "bottom": 943
+        },
+        {
+          "text": "6",
+          "left": 311,
+          "top": 903,
+          "right": 322,
+          "bottom": 943
+        },
+        {
+          "text": "\u00ab",
+          "left": 335,
+          "top": 909,
+          "right": 345,
+          "bottom": 939
+        }
+      ],
+      "parses": {
+        "date": "05-06-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Created:",
+          "left": 87,
+          "top": 949,
+          "right": 177,
+          "bottom": 970
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 948,
+          "right": 298,
+          "bottom": 973
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "8:47:11",
+          "left": 311,
+          "top": 948,
+          "right": 389,
+          "bottom": 969
+        }
+      ],
+      "parses": {
+        "date": "05-24-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "AM",
+          "left": 405,
+          "top": 948,
+          "right": 428,
+          "bottom": 969
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Created:",
+          "left": 87,
+          "top": 949,
+          "right": 177,
+          "bottom": 970
+        },
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 948,
+          "right": 298,
+          "bottom": 973
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 948,
+          "right": 298,
+          "bottom": 973
+        },
+        {
+          "text": "8:47:11",
+          "left": 311,
+          "top": 948,
+          "right": 389,
+          "bottom": 969
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "8:47:11",
+          "left": 311,
+          "top": 948,
+          "right": 389,
+          "bottom": 969
+        },
+        {
+          "text": "AM",
+          "left": 405,
+          "top": 948,
+          "right": 428,
+          "bottom": 969
+        }
+      ],
+      "parses": {
+        "date": "05-24-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Created:",
+          "left": 87,
+          "top": 949,
+          "right": 177,
+          "bottom": 970
+        },
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 948,
+          "right": 298,
+          "bottom": 973
+        },
+        {
+          "text": "8:47:11",
+          "left": 311,
+          "top": 948,
+          "right": 389,
+          "bottom": 969
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 948,
+          "right": 298,
+          "bottom": 973
+        },
+        {
+          "text": "8:47:11",
+          "left": 311,
+          "top": 948,
+          "right": 389,
+          "bottom": 969
+        },
+        {
+          "text": "AM",
+          "left": 405,
+          "top": 948,
+          "right": 428,
+          "bottom": 969
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Created:",
+          "left": 87,
+          "top": 949,
+          "right": 177,
+          "bottom": 970
+        },
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 948,
+          "right": 298,
+          "bottom": 973
+        },
+        {
+          "text": "8:47:11",
+          "left": 311,
+          "top": 948,
+          "right": 389,
+          "bottom": 969
+        },
+        {
+          "text": "AM",
+          "left": 405,
+          "top": 948,
+          "right": 428,
+          "bottom": 969
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "SETTLED:",
+          "left": 87,
+          "top": 979,
+          "right": 177,
+          "bottom": 999
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 977,
+          "right": 298,
+          "bottom": 1002
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "8:47:29",
+          "left": 311,
+          "top": 977,
+          "right": 392,
+          "bottom": 998
+        }
+      ],
+      "parses": {
+        "date": "05-24-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "AM",
+          "left": 406,
+          "top": 978,
+          "right": 428,
+          "bottom": 998
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "SETTLED:",
+          "left": 87,
+          "top": 979,
+          "right": 177,
+          "bottom": 999
+        },
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 977,
+          "right": 298,
+          "bottom": 1002
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 977,
+          "right": 298,
+          "bottom": 1002
+        },
+        {
+          "text": "8:47:29",
+          "left": 311,
+          "top": 977,
+          "right": 392,
+          "bottom": 998
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "8:47:29",
+          "left": 311,
+          "top": 977,
+          "right": 392,
+          "bottom": 998
+        },
+        {
+          "text": "AM",
+          "left": 406,
+          "top": 978,
+          "right": 428,
+          "bottom": 998
+        }
+      ],
+      "parses": {
+        "date": "05-24-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "SETTLED:",
+          "left": 87,
+          "top": 979,
+          "right": 177,
+          "bottom": 999
+        },
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 977,
+          "right": 298,
+          "bottom": 1002
+        },
+        {
+          "text": "8:47:29",
+          "left": 311,
+          "top": 977,
+          "right": 392,
+          "bottom": 998
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 977,
+          "right": 298,
+          "bottom": 1002
+        },
+        {
+          "text": "8:47:29",
+          "left": 311,
+          "top": 977,
+          "right": 392,
+          "bottom": 998
+        },
+        {
+          "text": "AM",
+          "left": 406,
+          "top": 978,
+          "right": 428,
+          "bottom": 998
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "SETTLED:",
+          "left": 87,
+          "top": 979,
+          "right": 177,
+          "bottom": 999
+        },
+        {
+          "text": "5/11/2019",
+          "left": 193,
+          "top": 977,
+          "right": 298,
+          "bottom": 1002
+        },
+        {
+          "text": "8:47:29",
+          "left": 311,
+          "top": 977,
+          "right": 392,
+          "bottom": 998
+        },
+        {
+          "text": "AM",
+          "left": 406,
+          "top": 978,
+          "right": 428,
+          "bottom": 998
+        }
+      ],
+      "parses": {
+        "date": "05-11-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "THANK",
+          "left": 205,
+          "top": 1007,
+          "right": 262,
+          "bottom": 1028
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "YOU!",
+          "left": 276,
+          "top": 1006,
+          "right": 318,
+          "bottom": 1027
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "THANK",
+          "left": 205,
+          "top": 1007,
+          "right": 262,
+          "bottom": 1028
+        },
+        {
+          "text": "YOU!",
+          "left": 276,
+          "top": 1006,
+          "right": 318,
+          "bottom": 1027
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "OU",
+          "left": 61,
+          "top": 1064,
+          "right": 116,
+          "bottom": 1142
+        }
+      ],
+      "parses": {}
+    }
+  ],
+  "height": 1317,
+  "width": 623,
+  "filename": "C:\\Users\\Hrithik Dhoka\\InvoiceNet\\processed_data\\train\\moz_208095.png"
+}
