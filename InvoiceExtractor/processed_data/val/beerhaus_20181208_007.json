@@ -1,0 +1,1062 @@
+{
+  "fields": {
+    "invoice_number": "985278",
+    "vendor_name": "BeerHaus",
+    "invoice_date": "11-30-2018",
+    "net_amount": "38.00",
+    "tax_amount": "3.14",
+    "total_amount": "41.14"
+  },
+  "nGrams": [
+    {
+      "words": [
+        {
+          "text": "11/30/2018",
+          "left": 75,
+          "top": 151,
+          "right": 204,
+          "bottom": 191
+        }
+      ],
+      "parses": {
+        "date": "11-30-2018"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "20:05",
+          "left": 445,
+          "top": 154,
+          "right": 509,
+          "bottom": 177
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BeerHaus",
+          "left": 232,
+          "top": 220,
+          "right": 337,
+          "bottom": 244
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Check:",
+          "left": 73,
+          "top": 253,
+          "right": 147,
+          "bottom": 278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "985278",
+          "left": 180,
+          "top": 253,
+          "right": 257,
+          "bottom": 277
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Table:",
+          "left": 339,
+          "top": 252,
+          "right": 413,
+          "bottom": 276
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 435,
+          "top": 254,
+          "right": 440,
+          "bottom": 275
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Table:",
+          "left": 339,
+          "top": 252,
+          "right": 413,
+          "bottom": 276
+        },
+        {
+          "text": "1",
+          "left": 435,
+          "top": 254,
+          "right": 440,
+          "bottom": 275
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 73,
+          "top": 281,
+          "right": 161,
+          "bottom": 319
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "san",
+          "left": 158,
+          "top": 281,
+          "right": 217,
+          "bottom": 346
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "(C)",
+          "left": 235,
+          "top": 284,
+          "right": 268,
+          "bottom": 311
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 73,
+          "top": 281,
+          "right": 161,
+          "bottom": 319
+        },
+        {
+          "text": "san",
+          "left": 158,
+          "top": 281,
+          "right": 217,
+          "bottom": 346
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "san",
+          "left": 158,
+          "top": 281,
+          "right": 217,
+          "bottom": 346
+        },
+        {
+          "text": "(C)",
+          "left": 235,
+          "top": 284,
+          "right": 268,
+          "bottom": 311
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 73,
+          "top": 281,
+          "right": 161,
+          "bottom": 319
+        },
+        {
+          "text": "san",
+          "left": 158,
+          "top": 281,
+          "right": 217,
+          "bottom": 346
+        },
+        {
+          "text": "(C)",
+          "left": 235,
+          "top": 284,
+          "right": 268,
+          "bottom": 311
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Terminal:",
+          "left": 73,
+          "top": 318,
+          "right": 187,
+          "bottom": 343
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bee",
+          "left": 73,
+          "top": 352,
+          "right": 111,
+          "bottom": 396
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Haus",
+          "left": 126,
+          "top": 352,
+          "right": 178,
+          "bottom": 376
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bee",
+          "left": 73,
+          "top": 352,
+          "right": 111,
+          "bottom": 396
+        },
+        {
+          "text": "Haus",
+          "left": 126,
+          "top": 352,
+          "right": 178,
+          "bottom": 376
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 70,
+          "top": 388,
+          "right": 511,
+          "bottom": 407
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Regular",
+          "left": 206,
+          "top": 416,
+          "right": 297,
+          "bottom": 444
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Check",
+          "left": 313,
+          "top": 416,
+          "right": 377,
+          "bottom": 441
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Regular",
+          "left": 206,
+          "top": 416,
+          "right": 297,
+          "bottom": 444
+        },
+        {
+          "text": "Check",
+          "left": 313,
+          "top": 416,
+          "right": 377,
+          "bottom": 441
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 156,
+          "top": 452,
+          "right": 161,
+          "bottom": 474
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Wing",
+          "left": 180,
+          "top": 452,
+          "right": 231,
+          "bottom": 478
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Basket",
+          "left": 246,
+          "top": 449,
+          "right": 323,
+          "bottom": 474
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 156,
+          "top": 452,
+          "right": 161,
+          "bottom": 474
+        },
+        {
+          "text": "Wing",
+          "left": 180,
+          "top": 452,
+          "right": 231,
+          "bottom": 478
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Wing",
+          "left": 180,
+          "top": 452,
+          "right": 231,
+          "bottom": 478
+        },
+        {
+          "text": "Basket",
+          "left": 246,
+          "top": 449,
+          "right": 323,
+          "bottom": 474
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 156,
+          "top": 452,
+          "right": 161,
+          "bottom": 474
+        },
+        {
+          "text": "Wing",
+          "left": 180,
+          "top": 452,
+          "right": 231,
+          "bottom": 478
+        },
+        {
+          "text": "Basket",
+          "left": 246,
+          "top": 449,
+          "right": 323,
+          "bottom": 474
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "12.00",
+          "left": 449,
+          "top": 450,
+          "right": 510,
+          "bottom": 473
+        }
+      ],
+      "parses": {
+        "date": "05-12-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "BBQ",
+          "left": 180,
+          "top": 484,
+          "right": 218,
+          "bottom": 508
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Blue",
+          "left": 180,
+          "top": 516,
+          "right": 231,
+          "bottom": 541
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Cheese",
+          "left": 246,
+          "top": 514,
+          "right": 324,
+          "bottom": 540
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Blue",
+          "left": 180,
+          "top": 516,
+          "right": 231,
+          "bottom": 541
+        },
+        {
+          "text": "Cheese",
+          "left": 246,
+          "top": 514,
+          "right": 324,
+          "bottom": 540
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 155,
+          "top": 550,
+          "right": 161,
+          "bottom": 573
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beerhaus",
+          "left": 180,
+          "top": 549,
+          "right": 284,
+          "bottom": 573
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Burger",
+          "left": 299,
+          "top": 548,
+          "right": 377,
+          "bottom": 575
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 155,
+          "top": 550,
+          "right": 161,
+          "bottom": 573
+        },
+        {
+          "text": "Beerhaus",
+          "left": 180,
+          "top": 549,
+          "right": 284,
+          "bottom": 573
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beerhaus",
+          "left": 180,
+          "top": 549,
+          "right": 284,
+          "bottom": 573
+        },
+        {
+          "text": "Burger",
+          "left": 299,
+          "top": 548,
+          "right": 377,
+          "bottom": 575
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 155,
+          "top": 550,
+          "right": 161,
+          "bottom": 573
+        },
+        {
+          "text": "Beerhaus",
+          "left": 180,
+          "top": 549,
+          "right": 284,
+          "bottom": 573
+        },
+        {
+          "text": "Burger",
+          "left": 299,
+          "top": 548,
+          "right": 377,
+          "bottom": 575
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "12.00",
+          "left": 448,
+          "top": 548,
+          "right": 510,
+          "bottom": 571
+        }
+      ],
+      "parses": {
+        "date": "05-12-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 155,
+          "top": 582,
+          "right": 161,
+          "bottom": 605
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "French",
+          "left": 181,
+          "top": 580,
+          "right": 257,
+          "bottom": 606
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fries",
+          "left": 274,
+          "top": 580,
+          "right": 337,
+          "bottom": 604
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 155,
+          "top": 582,
+          "right": 161,
+          "bottom": 605
+        },
+        {
+          "text": "French",
+          "left": 181,
+          "top": 580,
+          "right": 257,
+          "bottom": 606
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "French",
+          "left": 181,
+          "top": 580,
+          "right": 257,
+          "bottom": 606
+        },
+        {
+          "text": "Fries",
+          "left": 274,
+          "top": 580,
+          "right": 337,
+          "bottom": 604
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 155,
+          "top": 582,
+          "right": 161,
+          "bottom": 605
+        },
+        {
+          "text": "French",
+          "left": 181,
+          "top": 580,
+          "right": 257,
+          "bottom": 606
+        },
+        {
+          "text": "Fries",
+          "left": 274,
+          "top": 580,
+          "right": 337,
+          "bottom": 604
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6.00",
+          "left": 459,
+          "top": 580,
+          "right": 510,
+          "bottom": 603
+        }
+      ],
+      "parses": {
+        "date": "05-06-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 155,
+          "top": 615,
+          "right": 161,
+          "bottom": 638
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Pretzel",
+          "left": 180,
+          "top": 612,
+          "right": 267,
+          "bottom": 638
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 155,
+          "top": 615,
+          "right": 161,
+          "bottom": 638
+        },
+        {
+          "text": "Pretzel",
+          "left": 180,
+          "top": 612,
+          "right": 267,
+          "bottom": 638
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "8.00",
+          "left": 459,
+          "top": 613,
+          "right": 510,
+          "bottom": 636
+        }
+      ],
+      "parses": {
+        "date": "05-08-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Subtotal",
+          "left": 206,
+          "top": 674,
+          "right": 307,
+          "bottom": 713
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "38.00",
+          "left": 419,
+          "top": 680,
+          "right": 483,
+          "bottom": 703
+        }
+      ],
+      "parses": {
+        "amount": "38.00"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Sales",
+          "left": 193,
+          "top": 712,
+          "right": 257,
+          "bottom": 737
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tax",
+          "left": 273,
+          "top": 712,
+          "right": 311,
+          "bottom": 737
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sales",
+          "left": 193,
+          "top": 712,
+          "right": 257,
+          "bottom": 737
+        },
+        {
+          "text": "Tax",
+          "left": 273,
+          "top": 712,
+          "right": 311,
+          "bottom": 737
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "3.14",
+          "left": 432,
+          "top": 712,
+          "right": 484,
+          "bottom": 736
+        }
+      ],
+      "parses": {
+        "date": "05-03-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Total",
+          "left": 232,
+          "top": 741,
+          "right": 307,
+          "bottom": 779
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "41.14",
+          "left": 419,
+          "top": 746,
+          "right": 484,
+          "bottom": 769
+        }
+      ],
+      "parses": {
+        "amount": "41.14"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Mastercard",
+          "left": 73,
+          "top": 844,
+          "right": 204,
+          "bottom": 868
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EMV",
+          "left": 220,
+          "top": 844,
+          "right": 257,
+          "bottom": 867
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mastercard",
+          "left": 73,
+          "top": 844,
+          "right": 204,
+          "bottom": 868
+        },
+        {
+          "text": "EMV",
+          "left": 220,
+          "top": 844,
+          "right": 257,
+          "bottom": 867
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "41.14",
+          "left": 446,
+          "top": 843,
+          "right": 510,
+          "bottom": 866
+        }
+      ],
+      "parses": {
+        "amount": "41.14"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "XXXXXXXXXXXXZB29",
+          "left": 100,
+          "top": 875,
+          "right": 310,
+          "bottom": 900
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 327,
+          "top": 887,
+          "right": 336,
+          "bottom": 889
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "/",
+          "left": 353,
+          "top": 875,
+          "right": 363,
+          "bottom": 901
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 327,
+          "top": 887,
+          "right": 336,
+          "bottom": 889
+        },
+        {
+          "text": "/",
+          "left": 353,
+          "top": 875,
+          "right": 363,
+          "bottom": 901
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "GRAND",
+          "left": 166,
+          "top": 941,
+          "right": 230,
+          "bottom": 965
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "TOTAL",
+          "left": 246,
+          "top": 940,
+          "right": 310,
+          "bottom": 964
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "GRAND",
+          "left": 166,
+          "top": 941,
+          "right": 230,
+          "bottom": 965
+        },
+        {
+          "text": "TOTAL",
+          "left": 246,
+          "top": 940,
+          "right": 310,
+          "bottom": 964
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "41.14",
+          "left": 432,
+          "top": 940,
+          "right": 497,
+          "bottom": 964
+        }
+      ],
+      "parses": {
+        "amount": "41.14"
+      }
+    }
+  ],
+  "height": 1409,
+  "width": 617,
+  "filename": "C:\\Users\\Hrithik Dhoka\\InvoiceNet\\processed_data\\val\\beerhaus_20181208_007.png"
+}

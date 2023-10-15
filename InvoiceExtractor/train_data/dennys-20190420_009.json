@@ -1,0 +1,8 @@
+{
+ "invoice_number":"314341",
+ "vendor_name":"Denny's Restaurant",
+ "invoice_date":"04-09-2019",
+ "net_amount":"23.27",
+ "tax_amount":"2.04", 
+ "total_amount":"30.37"
+}

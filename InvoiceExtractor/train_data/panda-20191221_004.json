@@ -1,0 +1,8 @@
+{
+ "invoice_number":"245564",
+ "vendor_name":"Panda Express",
+ "invoice_date":"12-01-2019",
+ "net_amount":"28.10",
+ "tax_amount":"2.32", 
+ "total_amount":"30.42"
+}

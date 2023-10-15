@@ -1,0 +1,8 @@
+{
+ "invoice_number":"20060",
+ "vendor_name":"Fat Bar - Fatburger",
+ "invoice_date":"12-03-2019",
+ "net_amount":"29.95",
+ "tax_amount":"2.47", 
+ "total_amount":"32.42"
+}
