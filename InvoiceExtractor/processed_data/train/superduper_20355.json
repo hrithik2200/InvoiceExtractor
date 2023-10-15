@@ -1,0 +1,1511 @@
+{
+  "fields": {
+    "invoice_number": "20355",
+    "vendor_name": "SUPER DUPER",
+    "invoice_date": "05-12-2019",
+    "net_amount": "13.75",
+    "tax_amount": "1.17",
+    "total_amount": "14.92"
+  },
+  "nGrams": [
+    {
+      "words": [
+        {
+          "text": "SUPER",
+          "left": 219,
+          "top": 316,
+          "right": 283,
+          "bottom": 339
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DUPER",
+          "left": 299,
+          "top": 316,
+          "right": 363,
+          "bottom": 340
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "SUPER",
+          "left": 219,
+          "top": 316,
+          "right": 283,
+          "bottom": 339
+        },
+        {
+          "text": "DUPER",
+          "left": 299,
+          "top": 316,
+          "right": 363,
+          "bottom": 340
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DOWNTOWN",
+          "left": 246,
+          "top": 348,
+          "right": 350,
+          "bottom": 373
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "721",
+          "left": 206,
+          "top": 381,
+          "right": 240,
+          "bottom": 405
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Market",
+          "left": 259,
+          "top": 380,
+          "right": 335,
+          "bottom": 405
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "St.",
+          "left": 352,
+          "top": 382,
+          "right": 386,
+          "bottom": 405
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "721",
+          "left": 206,
+          "top": 381,
+          "right": 240,
+          "bottom": 405
+        },
+        {
+          "text": "Market",
+          "left": 259,
+          "top": 380,
+          "right": 335,
+          "bottom": 405
+        }
+      ],
+      "parses": {
+        "date": "03-24-0721"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Market",
+          "left": 259,
+          "top": 380,
+          "right": 335,
+          "bottom": 405
+        },
+        {
+          "text": "St.",
+          "left": 352,
+          "top": 382,
+          "right": 386,
+          "bottom": 405
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "721",
+          "left": 206,
+          "top": 381,
+          "right": 240,
+          "bottom": 405
+        },
+        {
+          "text": "Market",
+          "left": 259,
+          "top": 380,
+          "right": 335,
+          "bottom": 405
+        },
+        {
+          "text": "St.",
+          "left": 352,
+          "top": 382,
+          "right": 386,
+          "bottom": 405
+        }
+      ],
+      "parses": {
+        "date": "03-24-0721"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "San",
+          "left": 139,
+          "top": 415,
+          "right": 177,
+          "bottom": 438
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Francisco,",
+          "left": 193,
+          "top": 414,
+          "right": 320,
+          "bottom": 441
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "CA",
+          "left": 338,
+          "top": 415,
+          "right": 363,
+          "bottom": 438
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "94103",
+          "left": 378,
+          "top": 415,
+          "right": 442,
+          "bottom": 438
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "San",
+          "left": 139,
+          "top": 415,
+          "right": 177,
+          "bottom": 438
+        },
+        {
+          "text": "Francisco,",
+          "left": 193,
+          "top": 414,
+          "right": 320,
+          "bottom": 441
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Francisco,",
+          "left": 193,
+          "top": 414,
+          "right": 320,
+          "bottom": 441
+        },
+        {
+          "text": "CA",
+          "left": 338,
+          "top": 415,
+          "right": 363,
+          "bottom": 438
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "CA",
+          "left": 338,
+          "top": 415,
+          "right": 363,
+          "bottom": 438
+        },
+        {
+          "text": "94103",
+          "left": 378,
+          "top": 415,
+          "right": 442,
+          "bottom": 438
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "San",
+          "left": 139,
+          "top": 415,
+          "right": 177,
+          "bottom": 438
+        },
+        {
+          "text": "Francisco,",
+          "left": 193,
+          "top": 414,
+          "right": 320,
+          "bottom": 441
+        },
+        {
+          "text": "CA",
+          "left": 338,
+          "top": 415,
+          "right": 363,
+          "bottom": 438
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Francisco,",
+          "left": 193,
+          "top": 414,
+          "right": 320,
+          "bottom": 441
+        },
+        {
+          "text": "CA",
+          "left": 338,
+          "top": 415,
+          "right": 363,
+          "bottom": 438
+        },
+        {
+          "text": "94103",
+          "left": 378,
+          "top": 415,
+          "right": 442,
+          "bottom": 438
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "San",
+          "left": 139,
+          "top": 415,
+          "right": 177,
+          "bottom": 438
+        },
+        {
+          "text": "Francisco,",
+          "left": 193,
+          "top": 414,
+          "right": 320,
+          "bottom": 441
+        },
+        {
+          "text": "CA",
+          "left": 338,
+          "top": 415,
+          "right": 363,
+          "bottom": 438
+        },
+        {
+          "text": "94103",
+          "left": 378,
+          "top": 415,
+          "right": 442,
+          "bottom": 438
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "(415)",
+          "left": 208,
+          "top": 445,
+          "right": 268,
+          "bottom": 473
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "538-3437",
+          "left": 285,
+          "top": 447,
+          "right": 389,
+          "bottom": 471
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "(415)",
+          "left": 208,
+          "top": 445,
+          "right": 268,
+          "bottom": 473
+        },
+        {
+          "text": "538-3437",
+          "left": 285,
+          "top": 447,
+          "right": 389,
+          "bottom": 471
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 20,
+          "top": 513,
+          "right": 107,
+          "bottom": 537
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Brian",
+          "left": 126,
+          "top": 513,
+          "right": 190,
+          "bottom": 537
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Server:",
+          "left": 20,
+          "top": 513,
+          "right": 107,
+          "bottom": 537
+        },
+        {
+          "text": "Brian",
+          "left": 126,
+          "top": 513,
+          "right": 190,
+          "bottom": 537
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "05/12/2019",
+          "left": 444,
+          "top": 513,
+          "right": 575,
+          "bottom": 540
+        }
+      ],
+      "parses": {
+        "date": "05-12-2019"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Tony/1",
+          "left": 6,
+          "top": 541,
+          "right": 94,
+          "bottom": 579
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "8:01",
+          "left": 484,
+          "top": 546,
+          "right": 532,
+          "bottom": 569
+        }
+      ],
+      "parses": {
+        "date": "05-24-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "PM",
+          "left": 550,
+          "top": 546,
+          "right": 575,
+          "bottom": 570
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "8:01",
+          "left": 484,
+          "top": 546,
+          "right": 532,
+          "bottom": 569
+        },
+        {
+          "text": "PM",
+          "left": 550,
+          "top": 546,
+          "right": 575,
+          "bottom": 570
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Guests:",
+          "left": 20,
+          "top": 579,
+          "right": 107,
+          "bottom": 602
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 128,
+          "top": 579,
+          "right": 134,
+          "bottom": 602
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Guests:",
+          "left": 20,
+          "top": 579,
+          "right": 107,
+          "bottom": 602
+        },
+        {
+          "text": "1",
+          "left": 128,
+          "top": 579,
+          "right": 134,
+          "bottom": 602
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "#20355",
+          "left": 418,
+          "top": 612,
+          "right": 573,
+          "bottom": 635
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Order",
+          "left": 20,
+          "top": 642,
+          "right": 84,
+          "bottom": 667
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Type:",
+          "left": 99,
+          "top": 644,
+          "right": 161,
+          "bottom": 670
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Order",
+          "left": 20,
+          "top": 642,
+          "right": 84,
+          "bottom": 667
+        },
+        {
+          "text": "Type:",
+          "left": 99,
+          "top": 644,
+          "right": 161,
+          "bottom": 670
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DINE",
+          "left": 192,
+          "top": 643,
+          "right": 243,
+          "bottom": 667
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "IN",
+          "left": 260,
+          "top": 643,
+          "right": 283,
+          "bottom": 666
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DINE",
+          "left": 192,
+          "top": 643,
+          "right": 243,
+          "bottom": 667
+        },
+        {
+          "text": "IN",
+          "left": 260,
+          "top": 643,
+          "right": 283,
+          "bottom": 666
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Combo",
+          "left": 20,
+          "top": 708,
+          "right": 84,
+          "bottom": 732
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Super",
+          "left": 99,
+          "top": 709,
+          "right": 164,
+          "bottom": 736
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fries",
+          "left": 180,
+          "top": 709,
+          "right": 243,
+          "bottom": 732
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Soda",
+          "left": 259,
+          "top": 708,
+          "right": 310,
+          "bottom": 733
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Combo",
+          "left": 20,
+          "top": 708,
+          "right": 84,
+          "bottom": 732
+        },
+        {
+          "text": "Super",
+          "left": 99,
+          "top": 709,
+          "right": 164,
+          "bottom": 736
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Super",
+          "left": 99,
+          "top": 709,
+          "right": 164,
+          "bottom": 736
+        },
+        {
+          "text": "Fries",
+          "left": 180,
+          "top": 709,
+          "right": 243,
+          "bottom": 732
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fries",
+          "left": 180,
+          "top": 709,
+          "right": 243,
+          "bottom": 732
+        },
+        {
+          "text": "Soda",
+          "left": 259,
+          "top": 708,
+          "right": 310,
+          "bottom": 733
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Combo",
+          "left": 20,
+          "top": 708,
+          "right": 84,
+          "bottom": 732
+        },
+        {
+          "text": "Super",
+          "left": 99,
+          "top": 709,
+          "right": 164,
+          "bottom": 736
+        },
+        {
+          "text": "Fries",
+          "left": 180,
+          "top": 709,
+          "right": 243,
+          "bottom": 732
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Super",
+          "left": 99,
+          "top": 709,
+          "right": 164,
+          "bottom": 736
+        },
+        {
+          "text": "Fries",
+          "left": 180,
+          "top": 709,
+          "right": 243,
+          "bottom": 732
+        },
+        {
+          "text": "Soda",
+          "left": 259,
+          "top": 708,
+          "right": 310,
+          "bottom": 733
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Combo",
+          "left": 20,
+          "top": 708,
+          "right": 84,
+          "bottom": 732
+        },
+        {
+          "text": "Super",
+          "left": 99,
+          "top": 709,
+          "right": 164,
+          "bottom": 736
+        },
+        {
+          "text": "Fries",
+          "left": 180,
+          "top": 709,
+          "right": 243,
+          "bottom": 732
+        },
+        {
+          "text": "Soda",
+          "left": 259,
+          "top": 708,
+          "right": 310,
+          "bottom": 733
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "13.00",
+          "left": 513,
+          "top": 709,
+          "right": 575,
+          "bottom": 733
+        }
+      ],
+      "parses": {
+        "date": "05-13-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Super",
+          "left": 33,
+          "top": 742,
+          "right": 97,
+          "bottom": 769
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Cheese",
+          "left": 59,
+          "top": 774,
+          "right": 137,
+          "bottom": 797
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0.75",
+          "left": 524,
+          "top": 775,
+          "right": 575,
+          "bottom": 798
+        }
+      ],
+      "parses": {
+        "amount": "0.75"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Subtotal",
+          "left": 20,
+          "top": 834,
+          "right": 121,
+          "bottom": 872
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "13.75",
+          "left": 513,
+          "top": 840,
+          "right": 575,
+          "bottom": 862
+        }
+      ],
+      "parses": {
+        "date": "05-13-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Tax",
+          "left": 20,
+          "top": 871,
+          "right": 58,
+          "bottom": 895
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1.17",
+          "left": 527,
+          "top": 872,
+          "right": 575,
+          "bottom": 895
+        }
+      ],
+      "parses": {
+        "date": "05-01-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Total",
+          "left": 19,
+          "top": 930,
+          "right": 81,
+          "bottom": 969
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14,92",
+          "left": 513,
+          "top": 937,
+          "right": 576,
+          "bottom": 960
+        }
+      ],
+      "parses": {
+        "date": "05-14-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "MC",
+          "left": 20,
+          "top": 1001,
+          "right": 42,
+          "bottom": 1024
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14,92",
+          "left": 513,
+          "top": 1003,
+          "right": 575,
+          "bottom": 1026
+        }
+      ],
+      "parses": {
+        "date": "05-14-2022"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Auth:",
+          "left": 47,
+          "top": 1033,
+          "right": 108,
+          "bottom": 1056
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "NJGAJC",
+          "left": 114,
+          "top": 1034,
+          "right": 188,
+          "bottom": 1057
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Auth:",
+          "left": 47,
+          "top": 1033,
+          "right": 108,
+          "bottom": 1056
+        },
+        {
+          "text": "NJGAJC",
+          "left": 114,
+          "top": 1034,
+          "right": 188,
+          "bottom": 1057
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Balance",
+          "left": 20,
+          "top": 1065,
+          "right": 201,
+          "bottom": 1089
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Due",
+          "left": 232,
+          "top": 1066,
+          "right": 308,
+          "bottom": 1089
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0.00",
+          "left": 471,
+          "top": 1068,
+          "right": 573,
+          "bottom": 1091
+        }
+      ],
+      "parses": {
+        "amount": "0.00"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "FOLLOW",
+          "left": 220,
+          "top": 1130,
+          "right": 297,
+          "bottom": 1153
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "US",
+          "left": 312,
+          "top": 1131,
+          "right": 336,
+          "bottom": 1154
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ON",
+          "left": 352,
+          "top": 1132,
+          "right": 376,
+          "bottom": 1155
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "FOLLOW",
+          "left": 220,
+          "top": 1130,
+          "right": 297,
+          "bottom": 1153
+        },
+        {
+          "text": "US",
+          "left": 312,
+          "top": 1131,
+          "right": 336,
+          "bottom": 1154
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "US",
+          "left": 312,
+          "top": 1131,
+          "right": 336,
+          "bottom": 1154
+        },
+        {
+          "text": "ON",
+          "left": 352,
+          "top": 1132,
+          "right": 376,
+          "bottom": 1155
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "FOLLOW",
+          "left": 220,
+          "top": 1130,
+          "right": 297,
+          "bottom": 1153
+        },
+        {
+          "text": "US",
+          "left": 312,
+          "top": 1131,
+          "right": 336,
+          "bottom": 1154
+        },
+        {
+          "text": "ON",
+          "left": 352,
+          "top": 1132,
+          "right": 376,
+          "bottom": 1155
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "FACEBOOK",
+          "left": 167,
+          "top": 1162,
+          "right": 270,
+          "bottom": 1185
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "&",
+          "left": 285,
+          "top": 1164,
+          "right": 297,
+          "bottom": 1185
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "INSTAGRAM",
+          "left": 313,
+          "top": 1163,
+          "right": 430,
+          "bottom": 1188
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "FACEBOOK",
+          "left": 167,
+          "top": 1162,
+          "right": 270,
+          "bottom": 1185
+        },
+        {
+          "text": "&",
+          "left": 285,
+          "top": 1164,
+          "right": 297,
+          "bottom": 1185
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "&",
+          "left": 285,
+          "top": 1164,
+          "right": 297,
+          "bottom": 1185
+        },
+        {
+          "text": "INSTAGRAM",
+          "left": 313,
+          "top": 1163,
+          "right": 430,
+          "bottom": 1188
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "FACEBOOK",
+          "left": 167,
+          "top": 1162,
+          "right": 270,
+          "bottom": 1185
+        },
+        {
+          "text": "&",
+          "left": 285,
+          "top": 1164,
+          "right": 297,
+          "bottom": 1185
+        },
+        {
+          "text": "INSTAGRAM",
+          "left": 313,
+          "top": 1163,
+          "right": 430,
+          "bottom": 1188
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Come",
+          "left": 219,
+          "top": 1195,
+          "right": 270,
+          "bottom": 1217
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "again!",
+          "left": 285,
+          "top": 1196,
+          "right": 359,
+          "bottom": 1222
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Come",
+          "left": 219,
+          "top": 1195,
+          "right": 270,
+          "bottom": 1217
+        },
+        {
+          "text": "again!",
+          "left": 285,
+          "top": 1196,
+          "right": 359,
+          "bottom": 1222
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "superduperburgers",
+          "left": 153,
+          "top": 1226,
+          "right": 429,
+          "bottom": 1255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ".com",
+          "left": 373,
+          "top": 1222,
+          "right": 432,
+          "bottom": 1261
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "superduperburgers",
+          "left": 153,
+          "top": 1226,
+          "right": 429,
+          "bottom": 1255
+        },
+        {
+          "text": ".com",
+          "left": 373,
+          "top": 1222,
+          "right": 432,
+          "bottom": 1261
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "CODE",
+          "left": 218,
+          "top": 1259,
+          "right": 270,
+          "bottom": 1282
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "72102",
+          "left": 312,
+          "top": 1261,
+          "right": 376,
+          "bottom": 1284
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "~--",
+          "left": 166,
+          "top": 1335,
+          "right": 203,
+          "bottom": 1338
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Check",
+          "left": 218,
+          "top": 1323,
+          "right": 283,
+          "bottom": 1347
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Closed",
+          "left": 298,
+          "top": 1325,
+          "right": 376,
+          "bottom": 1349
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "~--",
+          "left": 166,
+          "top": 1335,
+          "right": 203,
+          "bottom": 1338
+        },
+        {
+          "text": "Check",
+          "left": 218,
+          "top": 1323,
+          "right": 283,
+          "bottom": 1347
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Check",
+          "left": 218,
+          "top": 1323,
+          "right": 283,
+          "bottom": 1347
+        },
+        {
+          "text": "Closed",
+          "left": 298,
+          "top": 1325,
+          "right": 376,
+          "bottom": 1349
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "~--",
+          "left": 166,
+          "top": 1335,
+          "right": 203,
+          "bottom": 1338
+        },
+        {
+          "text": "Check",
+          "left": 218,
+          "top": 1323,
+          "right": 283,
+          "bottom": 1347
+        },
+        {
+          "text": "Closed",
+          "left": 298,
+          "top": 1325,
+          "right": 376,
+          "bottom": 1349
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "---",
+          "left": 391,
+          "top": 1337,
+          "right": 429,
+          "bottom": 1341
+        }
+      ],
+      "parses": {}
+    }
+  ],
+  "height": 1370,
+  "width": 617,
+  "filename": "C:\\Users\\Hrithik Dhoka\\InvoiceNet\\processed_data\\train\\superduper_20355.png"
+}
